@@ -1,0 +1,27 @@
+{
+  "name": "random_string_messages_platzi",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiwGar/random_string_messages_platzi.git"
+  },
+  "keywords": [],
+  "author": "LiwGar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiwGar/random_string_messages_platzi/issues"
+  },
+  "homepage": "https://github.com/LiwGar/random_string_messages_platzi#readme",
+  "bin": {
+    "random_string_messages_platzi": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
