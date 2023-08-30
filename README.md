@@ -4,7 +4,7 @@ Creation of a new global package for the Platzi NPM Course.
 
 -NPM Course: Package and Dependency Management in JavaScript.
 -Professor: Óscar Barajas Tavares.
--Date: 06/20/2023
+-Date: 20/06/2023
 -Path: Full Stack Developer with JavaScript
 
 ## Install
